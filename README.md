@@ -123,6 +123,7 @@ This project builds on the work of the ComfyUI community and several upstream mo
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI), for the node-based image generation interface and built-in FLUX.2 workflow support.
 - [black-forest-labs/FLUX.2-klein-base-4B](https://huggingface.co/black-forest-labs/FLUX.2-klein-base-4B), for the FLUX.2 Klein Base 4B model used by these workflows.
 - [Comfy-Org](https://huggingface.co/Comfy-Org), for ComfyUI-ready model component files including the text encoder and VAE sources referenced in this README.
+- [Ostris](https://www.youtube.com/watch?v=CXJ95qI_9Xg), for sharing the workflow video on YouTube that these two workflows are based on.
 - [ostris/sketch_to_image_klein_4b](https://huggingface.co/ostris/sketch_to_image_klein_4b), for the sketch generation and sketch-to-image LoRAs.
 - [AlekPet/ComfyUI_Custom_Nodes_AlekPet](https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet), for PainterNode and related custom node work.
 
